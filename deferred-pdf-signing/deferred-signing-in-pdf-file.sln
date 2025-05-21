@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35723.152 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deferred-signing-in-pdf-file", "deferred-signing-in-pdf-file.csproj", "{539CAA8D-8CA1-4964-84CC-A83D9AD58E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539CAA8D-8CA1-4964-84CC-A83D9AD58E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539CAA8D-8CA1-4964-84CC-A83D9AD58E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539CAA8D-8CA1-4964-84CC-A83D9AD58E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539CAA8D-8CA1-4964-84CC-A83D9AD58E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A25F7D7-CA6D-4799-801C-15CCC6C7DFF9}
+	EndGlobalSection
+EndGlobal
